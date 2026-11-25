@@ -1,0 +1,12 @@
+data/
+artifacts/
+.env
+.ipynb_checkpoints/
+
+.idea/
+.venv/
+*.Zone.Identifier
+*:Zone.Identifier
+.ipynb_checkpoints/
+__pycache__/
+.env
